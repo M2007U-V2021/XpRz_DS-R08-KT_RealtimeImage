@@ -1,4 +1,46 @@
-red#
-green#
-blue#
-white
+[T046] :: what is your favourite letter / charracter ? /// 你最喜欢的字母/字是哪一个？#
+[T047] :: what is your favourite number ? /// 你最喜欢的数字是哪一个？#
+[T048] :: what is your favourite piece of technology ? /// 你最喜欢的科技产品是哪一个？#
+[T049] :: what is your favourite piece of technology ? /// 你最喜欢的一个科技结晶是什么？#
+[T050] :: what is your favourite shape (can be 2D, 3D, 4D, … , ND ) ? /// 你最喜欢的形状（可以是 2维、3维、4维、……、n维）是哪一个？#
+[T051] :: what is your favourite software ? /// 你最喜欢的软件是什么？#
+[T052] :: what is your favourite sport ? /// 你最喜欢的运动是哪一个？#
+[T053] :: what is your favourite tree ? /// 你最喜欢的树是什么？#
+[T054] :: what is your favourite weather ? /// 你最喜欢的天气是哪一个？#
+[T055] :: what is your wierdest hobby ? /// 你最奇怪的爱好是什么？#
+[T056] :: who is your favourite Twitch Streamer ? /// 你最喜欢的Twitch 主播是谁？#
+[T057] :: who is your favourite Vtuber ? /// 你最喜欢的“虚拟”主播是谁？#
+[T058] :: who is your favourite Youtuber ? /// 你最喜欢的YouTube 主播是谁？#
+[T059] :: what is your favourite Blender Modifier ? /// 你最喜欢的Blender 扳手是哪一个？#
+[T060] :: what is your favourite feature in this world ? /// 你最喜欢的世界功能（这个地图）是哪一个？#
+[T061] :: what is your favourite VRC avatar ? /// 你最喜欢的VRC 皮肤是哪一个？#
+[T062] :: what is your favourite VRC feature ? /// 你最喜欢的VRC 内建功能是哪一个？#
+[T063] :: what is your favourite VRC prefab ? /// 你最喜欢的VRC Prefab是哪一个？#
+[T064] :: what is your favourite VRC World ? /// 你最喜欢的VRC 世界是哪一个？#
+[T065] :: who is your favourite VRC Avatar Creator ? /// 你最喜欢的VRC 皮肤 作者是谁？#
+[T066] :: who is your favourite VRC World Creator ? /// 你最喜欢的VRC 世界 作者是谁？#
+[T067] :: what is your favourite food ? /// 你最喜欢的食物是什么？#
+[T068] :: what is your favourite fruit ? /// 你最喜欢的水果是什么？#
+[T069] :: what were you obsessed with when you were a child ? /// 当你还小的时候，你最喜欢什么？#
+[T070] :: who is your favourite celebrity ? /// 你最喜欢的明星是谁？#
+[T071] :: if you could become a fictional character in the physical realm, what would you be ? /// 如果你可以变成一个在物理世界不存在的物种，你会变成什么？#
+[T072] :: if you could become a furniture, what would you be ? /// 如果你可以变成一个家具，你会变成什么？#
+[T073] :: if you could become a musical instrument, what would you be ? /// 如果你可以变成一个乐器，你会变成什么？#
+[T074] :: if you could become a plant, what would you be ? And why ? /// 如果你可以变成一种植物，你会变成什么？ 为什么？#
+[T075] :: if you could become a software, what would you be ? What functions will you have ? /// 如果你可以变成一个软件，你会变成什么？ 有什么功能？#
+[T076] :: if you could become a weapon, what would you be ? /// 如果你可以变成一个武器，你会变成什么？#
+[T077] :: if you could become an animal other than human, what would you be ? /// 如果你可以变成一只动物（除了人类），你会变成什么？#
+[T078] :: if a crystal ball could tell your future, what would you want to know ? /// 如果有个水晶球能够告诉你未来，你会想要预测什么？#
+[T079] :: If you can change one of the planet in our solar system into something like earth, which planet will it be ? Why ? (from WhiteIce39) /// 如果你可以改造太阳系的一个行星成类似于地球的样子，你会选择哪一个？为什么？#
+[T080] :: if you can't have cake during your birthday, what would you have ? /// 如果你的生日没有蛋糕，那么蛋糕的代替品是什么？#
+[T081] :: if you could make a holiday, what would it be like ? any traditions or cultures ? /// 如果你能够创造一个假期，那个假期会是怎样的？有没有些什么习俗？#
+[T082] :: if you get to alter one physical trait, what would it be  ? /// 如果你可以改变或调整你的其中一个器官，那么是什么？#
+[T083] :: if you had to change your name, what would your new name be ? /// 如果你必须更改名字，那么你会改成什么？#
+[T084] :: if you know how to write a book, what is the title of the book that you will write ? /// 如果你会写书，那么你写的书的标题会是什么？#
+[T085] :: if your mind is a house, what would it look like ? what will it have ? /// 如果你的思想是一栋房子，那这间房子有些什么？#
+[T086] :: what was the last item you bought from a convention ? /// 你最近一次从漫展买的东西是什么？#
+[T087] :: what was the last song you sang out loud ? /// 你最近一次放声唱的歌曲是哪一首？#
+[T088] :: what was the last song or soundtrack you have listened to ? /// 你最近一次听的歌曲是哪一首？#
+[T089] :: what was the last book you have read ? /// 你最近一次读的书本是哪一本？#
+[T090] :: what was the last annoying YouTube AD you have seen ? /// 你最近一次看到最烦人的 YouTube 广告是哪一个？#
+[T091] :: what was the last interesting place in the physical realm you have been ? /// 你最近一次在物理世界去过有趣的地方是哪里？
