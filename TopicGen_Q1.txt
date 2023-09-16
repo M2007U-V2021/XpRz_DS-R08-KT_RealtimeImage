@@ -1,4 +1,45 @@
-apple#
-lemon#
-grape#
-pineapple
+[T001] :: Choose one (if you are forced) : Climb a mountain / run a marathon . /// 选一个（若你被迫）：爬山 / 跑马拉松。#
+[T002] :: Choose one (if you are forced) : coffee with curry / beer with milk (21+) / orange juice with brocoli . /// 选一个（若你被迫）：参着咖喱的咖啡 / 拌着牛奶的啤酒（21+）/ 有芥兰花的橙汁。#
+[T003] :: Choose one (if you are forced) : pineapple on pizza / spaghetti with watermelon, blended / icecream with curry / banana sushi with sprinkles, mixed . /// 选一个（若你被迫）：有黄梨或凤梨或菠萝的披萨 / 拌着西瓜的意大利面 / 拌着冰淇淋的咖喱 / 香蕉寿司，撒上小脆粉。#
+[T004] :: Choose one (if you are forced) : Spicy food / Bitter food . /// 选一个（若你被迫）：辣 / 苦。#
+[T005] :: Choose one (to become) : a moon / a planet / a sun / a red dwarf / a white dwarf / supernova / a nebula / a blackhole / a meteor . /// 选一个（若你必须变成）：卫星/行星/恒星/红矮星/白矮星/超新星/星云/黑洞 / 彗星。#
+[T006] :: Choose one (to destroy) : metaverse / chilloutvr ? /// 选一个（把它毁掉）：metaverse / cvr。#
+[T007] :: Choose one (to destroy) : wechat / QQ / weibo ? /// 选一个（把它毁掉）：微信 / QQ / 微博。#
+[T008] :: Choose one (to prefer) : A warm color pallete / A cool color pallete / Black and White / other (specify) . /// 选一个（你最喜欢的）：暖色系/冷色系/黑白/自己搭配（注明）。#
+[T009] :: Choose one (to prefer) : Cats / Dogs . /// 选一个（你最喜欢的）：猫猫 / 狗狗。#
+[T010] :: Choose one (to prefer) : dawn / morning / noon / afternoon / evening / night / midnight / dark morning . /// 选一个（你最喜欢的）：凌晨/早上/上午/中午/下午/傍晚/晚上/午夜/午夜后。#
+[T011] :: Choose one (to prefer) : Doritos / Lays / Takis  . /// 选一个（你最喜欢的）：Doritos / Lays / Takis 。#
+[T012] :: Choose one (to prefer) : fabric couch / leather couch . /// 选一个（你最喜欢的）：布料沙发 / 皮革沙发。#
+[T013] :: Choose one (to prefer) : hat / shirt / blouse / dress / skirt  / coat / jacket / pants / trousers / cargo pants / socks / laces / shoes . /// 选一个（你最喜欢的）：帽子 / 衬衫 / 女式衬衫 / 连衣裙 / 裙子  / 寒衣 / 外套 / 短裤 / 长裤 / 货舱裤 / 袜子 / 丝袜 / 鞋子。#
+[T014] :: Choose one (to prefer) : PC / VR / Console . /// 选一个（你最喜欢的）：电脑 / VR / Console。#
+[T015] :: Choose one (to prefer) : Rice / Rice Porridge / Noodles / Soup . /// 选一个（你最喜欢的）：饭 / 粥 / 面 / 汤。#
+[T016] :: Choose one (to prefer) : Snapple / MinuteMaid / CocaCola / Sprite / Pepsi / Dr Pepper . /// 选一个（你最喜欢的）：Snapple / MinuteMaid / CocaCola / Sprite / Pepsi / Dr Pepper。#
+[T017] :: Choose one (to prefer) : Tea / Coffee . /// 选一个（你最喜欢的）：咖啡/茶。#
+[T018] :: Choose one (to prefer) : Twitter / Instagram . /// 选一个（你最喜欢的）：推特 / IG。#
+[T019] :: Choose one (to prefer) : wooden floor / ceramic tiles . /// 选一个（你最喜欢的）：木质地板 / 瓷砖地板。#
+[T020] :: Choose one (to prefer, in the physical realm) : Takeway or Restaurant . /// 选一个（你最喜欢的，在物理世界）：打包/在餐厅吃。#
+[T021] :: Choose one (to prefer, in the physical realm) : Vacation at a beach paradise / famous metropolian city . /// 选一个（你最喜欢的，在物理世界）：沙滩度假 / 盛名城市。#
+[T022] :: Choose one (to prefer, while playing VRC) : PC / VR . /// 选一个（在玩VRC时比较喜欢的）：桌面电脑 / VR。#
+[T023] :: Choose one (to say, each choice can only be used once) : "Ara ara" / "Nico Nico Nii" / "Ayaya" / "Mya Nee" / "DON doko doko" / "Jiiii…" / "Anonae Anonae" . /// 选一个（必须说，每一个选项只能被一个玩家使用）： “Ara ara” / “Nico Nico Nii” / “Ayaya” / “Mya Nee” / “DON doko doko” / “Jiiii…” / “Anonae Anonae”。#
+[T024] :: Choose one (to support) : Industrial development / Environment Protect . /// 选一个（你比较会支持的）：科技发展 / 环境保护。#
+[T025] :: how will you define "success" ? /// 你如何定义"成功"？#
+[T026] :: should pineapple go onto pizza ? Why ? /// 黄梨/凤梨/菠萝 应该出现在披萨上面吗？#
+[T027] :: state a math concept you have learned back at highschool that you think it's interesting . /// 讲解一个你在中学时期学到的一个有趣的数学概念。#
+[T028] :: state a science concept/fact that you think it's interesting . /// 讲解一个你在中学时期学到的一个有趣的 科学 概念/现象。#
+[T029] :: state and explain a concept that you think is interesting from your favourite subject . /// 讲解一个在你最喜欢的科目当中你觉得有趣的一个概念。#
+[T030] :: what is your favourite anime or chibi character ? /// 你最喜欢的动漫或动画角色是谁？#
+[T031] :: what is your favourite color ? /// 你最喜欢的颜色是什么？#
+[T032] :: what is your favourite music album ? /// 你最喜欢的唱片是哪一个？#
+[T033] :: what is your favourite music genre ? /// 你最喜欢的音乐类型是哪一种？#
+[T034] :: what is your favourite music instrument ? /// 你最喜欢的乐器是什么？#
+[T035] :: what is your favourite outfit ? /// 你最喜欢的服装是什么？#
+[T036] :: what is your favourite song or soundtrack ? /// 你最喜欢的歌曲是那一首？#
+[T037] :: what is your favourite book ? /// 你最喜欢的书本是哪一本？#
+[T038] :: what is your favourite class or subject ? /// 你最喜欢的科目是哪一科？#
+[T039] :: what is your favourite language ? /// 你最喜欢的语言是哪一个？#
+[T040] :: what is your favourite science topic / phenomenon ? /// 你最喜欢的科学现象是什么？#
+[T041] :: what is your favourite game / video game ? /// 你最喜欢的电子游戏是哪一个？#
+[T042] :: what is your favourite animal (otherthan human) ? /// 你最喜欢的动物（除了人类）是什么？#
+[T043] :: what is your favourite brand / company ? /// 你最喜欢的品牌/公司是哪一个？#
+[T044] :: what is your favourite flower ? /// 你最喜欢的花是什么？#
+[T045] :: what is your favourite holiday ? /// 你最喜欢的假期或节日是哪一天?
