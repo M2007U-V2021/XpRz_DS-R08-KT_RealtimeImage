@@ -1,4 +1,45 @@
-GameObject#
-ParticleSystem#
-Shader#
-Materials
+[T092] :: what was the last meal you had ? /// 你最近一次吃的一餐吃了些什么？#
+[T093] :: what was the last meal you made ? /// 你最近一次弄的一餐弄了些什么？#
+[T094] :: what was the last movie you have watched ? /// 你最近一次看的电影是哪一个？#
+[T095] :: what was the last amazing VRC world you have visited ? /// 你最近一次去过漂亮的 VRC 世界是哪一个？#
+[T096] :: what was the last creation (worlds, avatars, etc) you have made ? /// 你最近一次创造的作品（地图，皮肤，等等）是什么？#
+[T097] :: recommend something you have discovered . /// 向大家对你的新发现提出建议？#
+[T098] :: what book series, or film has impacted your life ? /// 影响你一生的书本或视频是哪一本（或哪一个）？？#
+[T099] :: what have you learned from someone who has an opposite biological gender of yours ? /// 你从异性学到了些什么？？#
+[T100] :: what is the most interesting thing you have learned so far ? /// 目前为止你学到最有趣的东西是什么？#
+[T101] :: what is the most life-changing thing you have ever bought ? /// 目前为止你买的影响人生最多的东西是什么？#
+[T102] :: what was the strangest dream you have ever had ? /// 目前为止你梦见最奇怪的梦是什么？#
+[T103] :: what's the best part of your day so far ? /// 目前为止今天发生的好事是什么？#
+[T104] :: do you have any pets ? If yes, what's its/their name(s) ? /// 你有宠物吗？有的话，什么名字？#
+[T105] :: what is your biggest regret ? /// 你最大的后悔是什么？#
+[T106] :: what is your most used emoji ? /// 你最常用的表情包是哪一个？#
+[T107] :: what was the best birthday gift you have ever received ? /// 你收到过最赞的生日礼物是什么？#
+[T108] :: what was the biggest risk you have ever taken ? /// 你冒过最大的险是什么？#
+[T109] :: what was the proudest decision you have ever made ? /// 你做过最骄傲的决定是什么？#
+[T110] :: what was the worst advice you have ever got ? /// 你收过最烂的劝告是什么？#
+[T111] :: a perfect day needs (fill in the blank) . /// 一个完美的一天不可以缺少（填空）。#
+[T112] :: a perfect weekend needs (fill in the blank) . /// 一个完美的周末不可以缺少（填空）。#
+[T113] :: a perfect avatar needs (fill in the blank) . /// 一个完美的皮肤不可以缺少（填空）。#
+[T114] :: a perfect party / event needs (fill in the blank) . /// 一个完美的派对/活动不可以缺少（填空）。#
+[T115] :: a perfect world needs (fill in the blank) . /// 一个完美的地图不可以缺少（填空）。#
+[T116] :: a perfect Discord server needs (fill in the blank) . /// 一个完美的Discord 伺服器不可以缺少（填空）。#
+[T117] :: think of a super power you want to have. the Catch : player sitting on your right (if dice is odd) / left (if dice is even)  will set the side effect of your super power . /// 想一个你希望你拥有的一个超能力，但是：左边玩家（若骰子是单数）/ 右边玩家（若骰子是双数）需添加一个副作用。#
+[T118] :: you went to a restaurant and order your favourite dish (what it is ?) the Catch : player sitting on your right (if dice is odd) / left (if dice is even)  will add his / her dish into your meal, mixed or blended . /// 假设你到一个餐厅然后点了道菜（什么菜？），但是：左边玩家（若骰子是单数）/ 右边玩家（若骰子是双数）需添他的食物到你的食物（需经过搅拌）。#
+[T119] :: Choose one : Poiyomi Shaders / Silent Shaders ? /// 选一个：Poiyomi 着色器 / Silent 着色器？#
+[T120] :: Choose one : Udon / Usharp . /// 选一个：Udon / U井？#
+[T121] :: if you get to redesign / design a scene view / a new scene view for the Bus to nowhere, what would it be like ? /// 如果你可以重新设计/设计the Bus to nowhere的一个场景/新场景，你会如何设计？#
+[T122] :: if you get to redesign / design a section / a new section of DS-R07-KontaiNer (This world), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计DS-R07-箱（这个世界）的一个部分/新区域，你会如何设计？#
+[T123] :: if you get to redesign / design a section / a new section of Hwabon, which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计Hwabon 火车站的一个部分/新区域，你会如何设计？#
+[T124] :: if you get to redesign / design a section / a new section of Sovren's Chill Home (by Sovren), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计Sovren's Chill Home （由 Sovren 设计）的一个部分/新区域，你会如何设计？#
+[T125] :: if you get to redesign / design a section / a new section of the Black Cat (by SpookyGhostBoo), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计黑猫（有 SpookyGhostBoo 设计）的一个部分/新区域，你会如何设计？#
+[T126] :: if you get to redesign / design a section / a new section of the Chinese Bar, which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计中文巴的一个部分/新区域，你会如何设计？#
+[T127] :: if you get to redesign / design a section / a new section of the Japan Shrine, which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计日本神社的一个部分/新区域，你会如何设计？#
+[T128] :: if you get to redesign / design a section / a new section of the Midnight Rooftop (by ImLeXz), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计Midnight Rooftop （由 ImLeXz 设计）的一个部分/新区域，你会如何设计？#
+[T129] :: if you get to redesign / design a section / a new section of the Spirit of the Sea (by MakiMaki), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计the Spirit of the Sea （由 MakiMaki 设计）的一个部分/新区域，你会如何设计？#
+[T130] :: if you get to redesign / design a section / a new section of the Summer Solitude (by Lucifer MStar), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计Summer Solitude （由 Lucifer MStar 设计）的一个部分/新区域，你会如何设计？#
+[T131] :: if you get to redesign / design a section / a new section of the Winter Company (by Lucifer Mstar), which part will you redesign / where is the new section and how will you redesign / design it ? /// 如果你可以重新设计/设计Winter Company （由 Lucifer MStar 设计）的一个部分/新区域，你会如何设计？#
+[T132] :: if you get to redesign / design an event / a new event for the Bus to nowhere, what would it be like ? /// 如果你可以重新设计/设计the Bus to nowhere的一个事件/新事件，你会如何设计？#
+[T133] :: how did you came up with your user name ? /// 你是怎么想出你的用户名的？#
+[T134] :: how did you know the exsistence of VRChat ? /// 你是怎么知道 VRC 这个平台的？#
+[T135] :: how many favourited avatars do you have ? /// 你有多少个收藏皮肤？#
+[T136] :: how many favourited worlds do you have ? /// 你有多少个收藏地图？
