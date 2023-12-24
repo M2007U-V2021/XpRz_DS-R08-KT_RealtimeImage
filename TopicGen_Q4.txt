@@ -1,46 +1,62 @@
-[T137] :: if you are able to clone an asset of your avatar and put it on someone else, what would you stick on each of other players (assets cannot be rejected, assets can be different between players) ? /// 如果你可以把你身上的一个物件复制到其他玩家身上，你会对每一个玩家贴上什么（不可以拒绝，可以为每一个玩家贴上不一样的东西)？#
-[T138] :: if you are forced to remove one asset for every player in the room, what would you remove from each of other players (can be different for every player) ? /// 如果你必须从每一个玩家的皮肤取走一个物件，那你会对每一个玩家取走什么（不可以拒绝，可以取走不一样的物件）？#
-[T139] :: what is the weirdest world you have been into ? /// 你进过最奇怪的世界是哪一个？#
-[T140] :: what is the weirdest  friend group you are in ? /// 你认识到最奇怪的朋友群是哪一个？#
-[T141] :: what is your PlanB if all the mirrors are gone ? /// 如果所有镜子都没了，那你怎么办？#
-[T142] :: when did you started playing VRChat ? /// 你是什么时候开始玩 VRC 的？#
-[T143] :: anything interesting happened during last weekend ? /// 上个周末有什么有趣的事吗？？#
-[T144] :: Do you believe that if there are 2 same leaves ? /// 你相不相信这世上有没有两片一模一样的叶子？#
-[T145] :: do you text or call more ? Why ? /// 你比较常通话还是留言？#
-[T146] :: everyone think of an object, then put all of them together and see how they will interact . /// 大家想一个物品，然后把这下物品放在一起，看看会有什么互动。#
-[T147] :: got any plans for the weekend ? /// 周末有什么计划吗？#
-[T148] :: how many siblings do you have ? /// 你有多少个兄弟姐妹？#
-[T149] :: If you are trying to keep yourself fit, will you use medicines or do exercises, or what other ways you will use ? /// 如果你正在尝试控制自己的身形，你会选择使用药物还是健身？或你会使用什么其他方法？#
-[T150] :: If you get to make a video, what will your video talk about ? /// 如果你能够制作一个视频，你的视频内容是什么？#
-[T151] :: name one thing on your bucket list ? /// 列出你其中一个人生目标。#
-[T152] :: other than your phone, keys, cards, what's something that you take with you everywhere in the physical realm ? /// 除了你的手机，钥匙，卡，你还有什么随身物品？#
-[T153] :: type "how to" on Google and see what will Google offer . /// 在 Google 搜寻 “如何”，让 Google 接下去（若你被困在墙内，可以用百度，但是效果欠佳）。#
-[T154] :: what are some good and bad things about the education system in your country ? /// 说说在你的国家的教育制度的强项和弱点。#
-[T155] :: what countries have you traveled to ? /// 你曾经去过哪一个国家旅行？#
-[T156] :: what is your desktop background ? /// 你的桌面电脑的桌布背景是什么？#
-[T157] :: what is your phone homescreen wallpaper ? /// 你的手机桌面背景是什么？#
-[T158] :: what music instrument can you play ? /// 你会玩什么乐器？#
-[A159] :: Make a piece of art by using the Spoons, Forks and Knives in the dinning area . /// 使用饭厅的汤匙、叉和刀弄出一个艺术作品。#
-[A160] :: Use the plates in the dinning area to build a small house . /// 使用饭厅的盘子，搭建出一个小房子。#
-[A161] :: Stack the cube plushies in the Green House into  a Totem of 6 . /// 在温室把立方体抱枕叠成一个高6个抱枕的塔。#
-[A162] :: Stack the cube plushies in the Green House into  a Triangle (1 on top, 2 at the middle, 3 at the bottom) . /// 在温室把立方体抱枕叠成一个三角形（上1，中2，下3）。#
-[A163] :: Use the pillows in the sitting area to build a house . /// 在开放空间把抱枕叠成一个小房子。#
-[A164] :: Find the PINEAPPLE . /// 把 黄梨/菠萝/凤梨 找出来~。#
-[A165] :: The first one who gets the frying pan gets to smack everyone by using it . /// 第一个获得平底锅的玩家可以用它来敲大家。#
-[A166] :: Try to balance an apple on the cutting board and bring it to the Living area from the Kitchen /// 在厨房把苹果放在砧板上，然后带去客厅，途中不可有苹果掉落。#
-[A167] :: In the living area, there is a plate of chips by default, the first one who get to the roof by using the chips wins . /// 使用在客厅的薯片，第一个跳上屋顶的获胜。#
-[A168] :: Solve the puzzle in the Math room "Tower of Hanoi" with all 6 disks . /// 在数学室解开"Tower of Hanoi" 的6盘版本谜题。#
-[A169] :: Play a tune on the Synthesizer / keyboard / piano in the music room . /// 在音乐室的电子琴上弹/敲敲一首曲子。#
-[A170] :: Fly the drone to the Dining Area with one player sitting on it . /// 将无人机飞到饭厅，同时上面得坐着人。#
-[A171] :: Fly the drone to the Green House with one player sitting on it . /// 将无人机飞到温室，同时上面得坐着人。#
-[A172] :: Fly the drone to the Living Area  with one player sitting on it . /// 将无人机飞到客厅，同时上面得坐着人。#
-[A173] :: Make a spiral by using the camera set in the study . /// 使用在书房的摄像机，弄出螺旋。#
-[A174] :: Smack the keyboard in the study until PHIA appears on the screen . /// 在书房敲打键盘直到PHIA 出现在银幕上。#
-[A175] :: Smack the keyboard in the study until SpookyGhostBoo appears on the screen . /// 在书房敲打键盘直到SpookyGhostBoo出现在荧幕上。#
-[A176] :: Smack the keyboard in the study until TFM Jonny appears on the screen . /// 在书房敲打键盘直到TFM Jonny 出现在荧幕上。#
-[A177] :: Smack the keyboard in the study until Vowgan appears on the screen . /// 在书房敲打键盘直到Vowgan出现在荧幕上。#
-[A178] :: Everyone gather in the bathtub and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) . /// 大家挤进浴缸然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra）。#
-[A179] :: Put a toilet paper roll in the bathroom on someone's head and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) . /// 将浴室里的卫生纸放在别人头上，然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra）。#
-[A180] :: Put the burger on someone's head and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) . /// 把汉堡放在别人头上，然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra）。#
-[A181] :: have one of you to squeeze inside a box in the Living Area and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) . /// 让你们其中一位 挤进 在客厅的 麻绳箱 内，然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra）。#
-[A182] :: Write your names in the Study by using a Kimo Pen and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) . /// 在书房用 奇墨笔 写自己的名字，然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra）。
+[T193] How did you know the exsistence of VRChat ? /// 你是怎么知道 VRC 这个平台的 ? #
+[T194] How many favourite worlds do you have ? /// 你有多少个收藏地图 ? #
+[T195] How many favourite avatars do you have ? /// 你有多少个收藏皮肤 ? #
+[T196] When did you started VRChat ? /// 你是什么时候进入 VRC 的 ? #
+[T197] Do you have any pets ? If yes, what are there names ? /// 你有宠物吗？有的话，什么名字 ? #
+[T198] Anthing interesting happened during last week until now ? /// 上个周末有什么有趣的事吗？ #
+[T199] Do you believe that if there are 2 same leaves ? /// 你相不相信这世上有没有两片一模一样的叶子？ #
+[T200] everyone think of an object or an entity, then put all of them together and see how they will interact. /// 大家想一个物品，然后把这下物品放在一起，看看会有什么互动 #
+[T201] got any plans for the weekend ? /// 周末有什么计划吗 #
+[T202] how many siblings do you have ? /// 你有多少个兄弟姐妹 #
+[T203] name one thing on your bucket list . /// 列出你其中一个人生目标 #
+[T204] other than your phone, keys, cards, what's something that you take with you everywhere in the physical realm ? /// 除了你的手机，钥匙，卡，你还有什么随身物品 #
+[T205] type "how to" on Google and see what will Google offer. /// 在 Google 搜寻 “如何”，让 Google 接下去（若你被困在墙内，可以用百度，但是效果欠佳） #
+[T206] what are some good and bad things about the education system in your country ? /// 说说在你的国家的教育制度的强项和弱点 #
+[T207] what countries have you traveled to ? /// 你曾经去过哪一个国家旅行 #
+[T208] what is your phone homescreen wallpaper ? /// 你的手机桌面背景是什么 #
+[209] what is your desktop background ? /// 你的桌面电脑的桌布背景是什么 #
+[T210] what music instrument can you play ? /// 你会玩什么乐器 #
+[A211] Choose someone to act coquettishly for 20 seconds /// 选一个玩家撒娇20秒 。 #
+[A212] Describe yourself in 4 words /// 用4个字形容自己 。 #
+[A213] Make a piece of art by using the Spoons, Forks and Knives in the dinning area /// 使用饭厅的汤匙、叉和刀弄出一个艺术作品 #
+[A214] Use the plates in the dinning area to build a small house /// 使用饭厅的盘子，搭建出一个小房子 #
+[A215] Stack the cube plushies in the Green House into a Totem of 6 /// 在温室把立方体抱枕叠成 一个高6个抱枕的塔 #
+[A216] Stack the cube plushies in the Green House into a Triangle (1 on top, 2 at the middle, 3 at the bottom) /// 在温室把立方体抱枕叠成 一个三角形（上1，中2，下3） #
+[A217] Use the pillows in the sitting area to build a house /// 在开放空间把抱枕叠成 一个小房子 #
+[A218] Use the pillows in the sitting area to build a box /// 在开放空间把抱枕叠成 一个小箱子 #
+[A219] Use the pillows in the sitting area to build a tent /// 在开放空间把抱枕叠成 一个小帐篷 #
+[A220] Use the pillows in the sitting area to build a wall /// 在开放空间把抱枕叠成 一面墙 #
+[A221] Find the PINEAPPLE /// 把 黄梨/菠萝/凤梨 找出来~ #
+[A222] The first one who gets the frying pan gets to smack everyone by using it /// 第一个获得平底锅的玩家可以用它来敲大家 #
+[A223] Try to balance an apple on the cutting board and bring it to the Living area from the Kitchen /// 在厨房把苹果放在砧板上，然后带去客厅，途中不可有苹果掉落。 #
+[A224] In the living area, there is a plate of chips by default, the first one who get to the roof by using the chips wins /// 使用在客厅的薯片，第一个跳上屋顶的获胜 #
+[A225] Solve the puzzle in the Math room "Tower of Hanoi" with all 6 disks /// 在数学室解开"Tower of Hanoi" 的6盘版本谜题 #
+[A226] Play a tune on the Synthesizer / keyboard / piano in the music room /// 在音乐室的电子琴上弹/敲敲一首曲子 #
+[A227] Fly the drone to the GRAPH1 - Living Area with one player sitting on it /// 将无人机飞到 第一层级 客厅 ，同时上面得坐着人 #
+[A228] Fly the drone to the GRAPH1 - Dinning Area with one player sitting on it /// 将无人机飞到 第一层级 饭厅 ，同时上面得坐着人 #
+[A229] Fly the drone to the GRAPH1 - Kitchen with one player sitting on it /// 将无人机飞到 第一层级 厨房 ，同时上面得坐着人 #
+[A230] Fly the drone to the GRAPH1 - Sitting Area with one player sitting on it /// 将无人机飞到 第一层级 开放空间 #
+[A231] Fly the drone to the GRAPH1 - Green House / Flower Room/ Green Room with one player sitting on it /// 将无人机飞到 第一层级 花室 #
+[A232] Fly the drone to the GRAPH1 - Study with one player sitting on it /// 将无人机飞到 第一层级 书房 #
+[A233] Fly the drone to the GRAPH2 - Stadium with one player sitting on it /// 将无人机飞到 第二层级 舞台 #
+[A234] Fly the drone to the GRAPH2 - Hemisphere Tent with one player sitting on it /// 将无人机飞到 第二层级 半圆帐篷 #
+[A235] Fly the drone to the GRAPH2 - Platform 270 with one player sitting on it /// 将无人机飞到 第二层级 270号 站台 #
+[A236] Fly the drone to the GRAPH3 - Game Tent 1 with one player sitting on it /// 将无人机飞到 第三层级 1号帐篷 #
+[A237] Fly the drone to the GRAPH4 - Platform 030 with one player sitting on it /// 将无人机飞到 第四层级 030号 站台 #
+[A238] Fly the drone to the GRAPH4 - Platform 090 with one player sitting on it /// 将无人机飞到 第四层级 090号 站台 #
+[A239] Fly the drone to the GRAPH4 - Platform 150 with one player sitting on it /// 将无人机飞到 第四层级 150号 站台 #
+[A240] Fly the drone to the GRAPH4 - Platform 210 with one player sitting on it /// 将无人机飞到 第四层级 210号 站台 #
+[A241] Fly the drone to the GRAPH4 - Platform 270 with one player sitting on it /// 将无人机飞到 第四层级 270号 站台 #
+[A242] Fly the drone to the GRAPH4 - Platform 330 with one player sitting on it /// 将无人机飞到 第四层级 330号 站台 #
+[A243] Make a spiral by using the camera set in the study /// 使用在书房的摄像机，弄出螺旋 #
+[A244] Everyone gather in the bathtub and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) /// 大家挤进浴缸 然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra） #
+[A245] Put a toilet paper roll on top of someones head and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) /// 将浴室里的卫生纸放在别人头上， 然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra） #
+[A246] Put the burger on someone's head and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) /// 把汉堡放在别人头上， 然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra） #
+[A247] have one of you to squeeze inside a box in the Living Area and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) /// 让你们其中一位 挤进 在客厅的 麻绳箱 内， 然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra） #
+[A248] Write your names in the Study by using a Kimo Pen and post it on Twitter / Instgram (Tag us so we can like it : Twitter : @M2007U_V2021 / Instagram : @memo2007ultra) /// 在书房用 奇墨笔 写自己的名字， 然后放上推特/Instagram （注明我们，所以我们才可以按赞：推特：@M2007U_V2021，Instagram：@memo2007ultra） #
+[A249] Let's go to GRAPH1 - Living Area /// 出发~去 第一层级 客厅 #
+[A250] Let's go to GRAPH1 - Dinning Area /// 出发~去 第一层级 饭厅 #
+[A251] Let's go to GRAPH1 - Kitchen /// 出发~去 第一层级 厨房 #
+[A252] Let's go to GRAPH1 - Sitting Area /// 出发~去 第一层级 开放空间 #
+[A253] Let's go to GRAPH1 - Green House / Flower Room/ Green Room /// 出发~去 第一层级 花室 #
+[A254] Let's go to GRAPH1 - Study /// 出发~去 第一层级 书房 #
