@@ -3,6 +3,7 @@ InstanceID("");
 SetActive(Special.Frame,false);
 SetActive(Special.Globe,false);
 SetActive(Special.Zaglines,false);
+SetActive(Special.HandDrewGrass,false);
 SetActive(Special.TriFlags,false);
 SetActive(Special.SkyRing,flase);
 
