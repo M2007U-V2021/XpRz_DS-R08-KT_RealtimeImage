@@ -19,12 +19,18 @@ SetActive(Weather.StarsMono,false);
 SetActive(Weather.AuroraWarm,false);
 SetActive(Weather.AuroraCool,false);
 
-ForceDoor(BT1,Open);
-ForceDoor(BT2,Open);
-ForceDoor(BD1,Open);
-ForceDoor(BD2,Open);
-ForceDoor(BD3,Open);
+SetActive(BT1.Door,false);
+SetActive(BT2.Door,false);
+SetActive(BD1.Door,false);
+SetActive(BD2.Door,false);
+SetActive(BD3.Door,false);
+SetActive(BT1.Lock,false);
+SetActive(BT2.Lock,false);
+SetActive(BD1.Lock,false);
+SetActive(BD2.Lock,false);
+SetActive(BD3.Lock,false);
 
-SetAdmin( XR_XharpRazor);SetAdmin(Vannthedev );
+SetAdmin(XR_XharpRazor);
+SetAdmin(Vannthedev);
 SetAdmin(Alia);
 SetAdmin(EZK!MO);
