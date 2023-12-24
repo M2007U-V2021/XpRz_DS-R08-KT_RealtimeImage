@@ -1,45 +1,64 @@
-[T001] :: Choose one (if you are forced) : Climb a mountain / run a marathon . /// 选一个（若你被迫）：爬山 / 跑马拉松。#
-[T002] :: Choose one (if you are forced) : coffee with curry / beer with milk (21+) / orange juice with brocoli . /// 选一个（若你被迫）：参着咖喱的咖啡 / 拌着牛奶的啤酒（21+）/ 有芥兰花的橙汁。#
-[T003] :: Choose one (if you are forced) : pineapple on pizza / spaghetti with watermelon, blended / icecream with curry / banana sushi with sprinkles, mixed . /// 选一个（若你被迫）：有黄梨或凤梨或菠萝的披萨 / 拌着西瓜的意大利面 / 拌着冰淇淋的咖喱 / 香蕉寿司，撒上小脆粉。#
-[T004] :: Choose one (if you are forced) : Spicy food / Bitter food . /// 选一个（若你被迫）：辣 / 苦。#
-[T005] :: Choose one (to become) : a moon / a planet / a sun / a red dwarf / a white dwarf / supernova / a nebula / a blackhole / a meteor . /// 选一个（若你必须变成）：卫星/行星/恒星/红矮星/白矮星/超新星/星云/黑洞 / 彗星。#
-[T006] :: Choose one (to destroy) : metaverse / chilloutvr ? /// 选一个（把它毁掉）：metaverse / cvr。#
-[T007] :: Choose one (to destroy) : wechat / QQ / weibo ? /// 选一个（把它毁掉）：微信 / QQ / 微博。#
-[T008] :: Choose one (to prefer) : A warm color pallete / A cool color pallete / Black and White / other (specify) . /// 选一个（你最喜欢的）：暖色系/冷色系/黑白/自己搭配（注明）。#
-[T009] :: Choose one (to prefer) : Cats / Dogs . /// 选一个（你最喜欢的）：猫猫 / 狗狗。#
-[T010] :: Choose one (to prefer) : dawn / morning / noon / afternoon / evening / night / midnight / dark morning . /// 选一个（你最喜欢的）：凌晨/早上/上午/中午/下午/傍晚/晚上/午夜/午夜后。#
-[T011] :: Choose one (to prefer) : Doritos / Lays / Takis  . /// 选一个（你最喜欢的）：Doritos / Lays / Takis 。#
-[T012] :: Choose one (to prefer) : fabric couch / leather couch . /// 选一个（你最喜欢的）：布料沙发 / 皮革沙发。#
-[T013] :: Choose one (to prefer) : hat / shirt / blouse / dress / skirt  / coat / jacket / pants / trousers / cargo pants / socks / laces / shoes . /// 选一个（你最喜欢的）：帽子 / 衬衫 / 女式衬衫 / 连衣裙 / 裙子  / 寒衣 / 外套 / 短裤 / 长裤 / 货舱裤 / 袜子 / 丝袜 / 鞋子。#
-[T014] :: Choose one (to prefer) : PC / VR / Console . /// 选一个（你最喜欢的）：电脑 / VR / Console。#
-[T015] :: Choose one (to prefer) : Rice / Rice Porridge / Noodles / Soup . /// 选一个（你最喜欢的）：饭 / 粥 / 面 / 汤。#
-[T016] :: Choose one (to prefer) : Snapple / MinuteMaid / CocaCola / Sprite / Pepsi / Dr Pepper . /// 选一个（你最喜欢的）：Snapple / MinuteMaid / CocaCola / Sprite / Pepsi / Dr Pepper。#
-[T017] :: Choose one (to prefer) : Tea / Coffee . /// 选一个（你最喜欢的）：咖啡/茶。#
-[T018] :: Choose one (to prefer) : Twitter / Instagram . /// 选一个（你最喜欢的）：推特 / IG。#
-[T019] :: Choose one (to prefer) : wooden floor / ceramic tiles . /// 选一个（你最喜欢的）：木质地板 / 瓷砖地板。#
-[T020] :: Choose one (to prefer, in the physical realm) : Takeway or Restaurant . /// 选一个（你最喜欢的，在物理世界）：打包/在餐厅吃。#
-[T021] :: Choose one (to prefer, in the physical realm) : Vacation at a beach paradise / famous metropolian city . /// 选一个（你最喜欢的，在物理世界）：沙滩度假 / 盛名城市。#
-[T022] :: Choose one (to prefer, while playing VRC) : PC / VR . /// 选一个（在玩VRC时比较喜欢的）：桌面电脑 / VR。#
-[T023] :: Choose one (to say, each choice can only be used once) : "Ara ara" / "Nico Nico Nii" / "Ayaya" / "Mya Nee" / "DON doko doko" / "Jiiii…" / "Anonae Anonae" . /// 选一个（必须说，每一个选项只能被一个玩家使用）： “Ara ara” / “Nico Nico Nii” / “Ayaya” / “Mya Nee” / “DON doko doko” / “Jiiii…” / “Anonae Anonae”。#
-[T024] :: Choose one (to support) : Industrial development / Environment Protect . /// 选一个（你比较会支持的）：科技发展 / 环境保护。#
-[T025] :: how will you define "success" ? /// 你如何定义"成功"？#
-[T026] :: should pineapple go onto pizza ? Why ? /// 黄梨/凤梨/菠萝 应该出现在披萨上面吗？#
-[T027] :: state a math concept you have learned back at highschool that you think it's interesting . /// 讲解一个你在中学时期学到的一个有趣的数学概念。#
-[T028] :: state a science concept/fact that you think it's interesting . /// 讲解一个你在中学时期学到的一个有趣的 科学 概念/现象。#
-[T029] :: state and explain a concept that you think is interesting from your favourite subject . /// 讲解一个在你最喜欢的科目当中你觉得有趣的一个概念。#
-[T030] :: what is your favourite anime or chibi character ? /// 你最喜欢的动漫或动画角色是谁？#
-[T031] :: what is your favourite color ? /// 你最喜欢的颜色是什么？#
-[T032] :: what is your favourite music album ? /// 你最喜欢的唱片是哪一个？#
-[T033] :: what is your favourite music genre ? /// 你最喜欢的音乐类型是哪一种？#
-[T034] :: what is your favourite music instrument ? /// 你最喜欢的乐器是什么？#
-[T035] :: what is your favourite outfit ? /// 你最喜欢的服装是什么？#
-[T036] :: what is your favourite song or soundtrack ? /// 你最喜欢的歌曲是那一首？#
-[T037] :: what is your favourite book ? /// 你最喜欢的书本是哪一本？#
-[T038] :: what is your favourite class or subject ? /// 你最喜欢的科目是哪一科？#
-[T039] :: what is your favourite language ? /// 你最喜欢的语言是哪一个？#
-[T040] :: what is your favourite science topic / phenomenon ? /// 你最喜欢的科学现象是什么？#
-[T041] :: what is your favourite game / video game ? /// 你最喜欢的电子游戏是哪一个？#
-[T042] :: what is your favourite animal (otherthan human) ? /// 你最喜欢的动物（除了人类）是什么？#
-[T043] :: what is your favourite brand / company ? /// 你最喜欢的品牌/公司是哪一个？#
-[T044] :: what is your favourite flower ? /// 你最喜欢的花是什么？#
-[T045] :: what is your favourite holiday ? /// 你最喜欢的假期或节日是哪一天?
+[T001] Choose one if you are forced : Climb a mountain / run a marathon /// 选一个 如果被迫的话 ： 爬山 / 跑马拉松 #
+[T002] Choose one if you are forced : coffee with curry / beer with milk (21+) / orange juice with brocoli /// 选一个 如果被迫的话 ： 咖啡参咖喱 / 啤酒参牛奶 / 橙汁参芥兰花 #
+[T003] Choose one if you are forced : pineapple on pizza / spaghetti with watermelon, blended / icecream with curry / banana sushi with sprinkles, mixed /// 选一个 如果被迫的话 ： 披萨加凤梨 / 意大利面加西瓜 / 冰淇淋参咖喱 / 香蕉寿司 #
+[T004] Choose one if you are forced : Spicy food / Bitter food /// 选一个 如果被迫的话 ： 辣的食物 / 苦的食物 #
+[T005] Choose one to become : a moon / a planet / a sun / a red dwarf / a white dwarf / supernova / a nebula / a blackhole / a meteor /// 选一个 如果必须成为 ： 卫星/行星/恒星/红矮星/白矮星/超新星/星云/黑洞 / 彗星 #
+[T006] Choose one to destroy : metaverse / chilloutvr /// 选一个 如果必须摧毁 ： metaverse / cvr #
+[T007] Choose one to destroy : wechat / QQ / weibo / bilibili /// 选一个 如果必须摧毁 ： 微信 / QQ / 微博 / 哔哩哔哩 #
+[T008] Choose one to prefer : A warm color pallete / A cool color pallete / Black and White / other (specify) /// 选一个 最喜欢的 ： 暖色系/冷色系/黑白/自己搭配（注明） #
+[T009] Choose one to prefer : Cats / Dogs / Foxes /// 选一个 最喜欢的 ： 猫咪 / 狗狗 / 狐狸 #
+[T010] Choose one to prefer : dawn / morning / noon / afternoon / evening / night / midnight / dark morning /// 选一个 最喜欢的 ： 凌晨/早上/上午/中午/下午/傍晚/晚上/午夜/午夜后 #
+[T011] Choose one to prefer : Doritos / Lays / Takis /// 选一个 最喜欢的 ： Doritos / Lays / Takis #
+[T012] Choose one to prefer : fabric couch / leather couch /// 选一个 最喜欢的 ： 布料沙发 / 皮革沙发 #
+[T013] Choose one to prefer : hat / shirt / blouse / dress / skirt / coat / jacket / pants / trousers / cargo pants / socks / laces / shoes /// 选一个 最喜欢的 ： 帽子 / 衬衫 / 女式衬衫 / 连衣裙 / 裙子 / 寒衣 / 外套 / 短裤 / 长裤 / 货舱裤 / 袜子 / 丝袜 / 鞋子 #
+[T014] Choose one to prefer : PC / VR / Console /// 选一个 最喜欢的 ： 电脑 / VR / Console #
+[T015] Choose one to prefer : Rice / Rice Porridge / Noodles / Soup / Pasta / Sandwiches /// 选一个 最喜欢的 ： 饭 / 粥 / 面 / 汤 / 意大利面 / 面包类 #
+[T016] Choose one to prefer : Minute Maid / Sprite / Cocacola / Pepsi / Snapple / Dr.Pepper /// 选一个 最喜欢的 ： Minute Maid / Sprite / Cocacola / Pepsi / Snapple / Dr.Pepper #
+[T017] Choose one to prefer : Tea / Coffee /// 选一个 最喜欢的 ： 咖啡 / 茶 #
+[T018] Choose one to prefer : Twitter / Instagram /// 选一个 最喜欢的 ： 推特 / IG #
+[T019] Choose one to prefer : wooden floor / ceramic tiles /// 选一个 最喜欢的 ： 木质地板 / 瓷砖地板 #
+[T020] Choose one to prefer : Takeway or Restaurant /// 选一个 最喜欢的 ： 打包 / 在餐厅吃 #
+[T021] Choose one to prefer : Vacation at a beach paradise / famous metropolian city /// 选一个 最喜欢的 ： 沙滩度假 / 盛名城市 #
+[T022] Choose one to prefer : Industrial development / Environment Protect /// 选一个 最喜欢的 ： 科技发展 / 环境保护 #
+[T023] Choose one to prefer : Book / Broom / Dagger / Hammer / Knife / Staff / Sword / Sythe /// 选一个 最喜欢的 ： 书 / 扫帚 / 匕首 / 锤子 / 刀 / 法杖 / 剑 / 镰刀 #
+[T024] Choose one to prefer : Poiyomi Shaders / Silent Shaders / Mochie Shaders /// 选一个 最喜欢的 ： Poiyoimi 着色器 / Silent 着色器 / Mochie 着色器 #
+[T025] Choose one to prefer : Udon / USharp / Cyan Trigger / AVOID INTERACTIONS /// 选一个 最喜欢的 ： UDON 脚本 / U井 脚本 / Cyan Trigger / 不要脚本~ #
+[T026] Choose one to prefer : Texting / Voice Call / Video Call / Streaming /// 选一个 最喜欢的 ： 私讯 / 通话 / 视讯 / 直播 #
+[T027] Rearrage the following according what you value the most in a partner (from least important to most important) : Looks, Wealth, Health, Personality, Intellect, Kindness /// 重新排列 按照你最注重的伴侣特质 （由最轻至最重） ： 外貌 / 经济 / 健康 / 性格 / 知识 / 善良 （由 Sparta110 提供）#
+[T028] Rearrage the following according what you disguss the most in a partner (from most severe to least severe) : Autisism, Anger, Liar, Stinky, Suicidal, Stalker /// 重新排列 按照你最厌恶的伴侣特质 （由最重至最轻） ： 自闭症 / 坏脾气 / 虚伪 / 体臭 / 自杀倾向 / 跟踪狂 （由 Sparta110 提供）#
+[T029] How will you define "Success" /// 你会如何定义 “成功” ？ #
+[T030] How will you define "Real" /// 你会如何定义 “真实” ？ #
+[T031] Should Pineapple go onto pizza /// 应该吗？ 披萨加凤梨 ？ #
+[T032] State or Explain a math concept you have learned back at highschool that you think it's interesting /// 说明或讲解 你在中学时期学过的一个有趣的数学概念 。 #
+[T033] State or Explain a scientific phenomena you have learned back at school that you think it is fascinating /// 说明或讲解 你在中学时期学过的一个有趣的科学现象 。 #
+[T034] State or Explain a concept that you think is interesting from your favourite subject /// 说明或讲解 你在中学时期学过的一个有趣的n你喜欢的科目的概念 。 #
+[T035] recommend something you have discovered ? /// 建议大家你最近学到的一个东西 。 #
+[T036] what book series, or film has impacted your life ? /// 拿一本书本系列/电影系列对你造成了很大的影响 ？ #
+[T037] what have you learned from someone who has an opposite biological gender of yours ? /// 你从一些异性学到了些什么 ？ #
+[T038] What is your favourite / dislike class or subject /// 你最 喜欢的 科目 是什么 ？ #
+[T039] What is your favourite / dislike human language /// 你最 喜欢的 人类语言 是什么 ？ #
+[T040] What is your favourite / dislike programming language /// 你最 喜欢的 编程语言 是什么 ？ #
+[T041] What is your favourite / dislike science topic / phenomenon /// 你最 喜欢的 科学话题 / 现象 是什么 ？ #
+[T042] What is your favourite / dislike counting system (dec, bin, hexadec, mix, etc) /// 你最 喜欢的 进制 （十进制，二进制，十六进制，参杂，等等） 是什么 ？ #
+[T043] What is your favourite / dislike letter / charracter /// 你最 喜欢的 字 / 字母 是什么 ？ #
+[T044] What is your favourite / dislike Number (N,W,Q,R,C,etc) /// 你最 喜欢的 数字（可以是 自然数，整数，有理数，实数，虚数，等等） 是什么 ？ #
+[T045] What is your favourite / dislike piece of technology /// 你最 喜欢的 科技结晶 是什么 ？ #
+[T046] What is your favourite / dislike shape (can be 2D, 3D, 4D, etc) /// 你最 喜欢的 形状（二维，三维，四维，等等） 是什么 ？ #
+[T047] What is your favourite / dislike software /// 你最 喜欢的 软件 是什么 ？ #
+[T048] What is your favourite / dislike Blender Modifier /// 你最 喜欢的 Blender扳手 是什么 ？ #
+[T049] What is your favourite / dislike Unity GameObject Type (empty, mesh, particle system, light soure, audio source, UI, material, shader, texture, etc) /// 你最 喜欢的 Unity 物品类型（空，模型，粒子系统，光源，生源，界面，材质，着色器，图片档，等等） 是什么 ？ #
+[T050] What is your favourite / dislike feature in this world /// 你最 喜欢的 这张地图的机制 / 功能 是什么 ？ #
+[T051] What is your favourite / dislike feature of this avartar that you are wearing /// 你最 喜欢的 你皮肤的一个机制 是什么 ？ #
+[T052] What is your favourite / dislike VRC World /// 你最 喜欢的 VRC地图 是哪一个 ？ #
+[T053] What is your favourite / dislike VRC Avatar /// 你最 喜欢的 VRC皮肤 是哪一个 ？ #
+[T054] What is your favourite / dislike VRC Feature /// 你最 喜欢的 VRC功能 是哪一个 ？ #
+[T055] What is your favourite / dislike VRC Prefab /// 你最 喜欢的 VRC Prefab 是什么 ？ #
+[T056] What is your favourite / dislike color /// 你最 喜欢的 颜色 是什么 ？ #
+[T057] What is your favourite / dislike music album /// 你最 喜欢的 歌曲配套 是什么 ？ #
+[T058] What is your favourite / dislike music genre /// 你最 喜欢的 音乐类型 是什么 ？ #
+[T059] What is your favourite / dislike music instrument /// 你最 喜欢的 乐器 是什么 ？ #
+[T060] What is your favourite / dislike song or soundtrack /// 你最 喜欢的 歌曲 / 音乐作品 是什么 ？ #
+[T061] What is your favourite / dislike game / video game /// 你最 喜欢的 游戏 / 电子游戏 是什么 ？ #
+[T062] What is your favourite / dislike anime /// 你最 喜欢的 动漫 是什么 ？ #
+[T063] What is your favourite / dislike outfit /// 你最 喜欢的 服装 是什么 ？ #
+[T064] What is your favourite / dislike plant /// 你最 喜欢的 植物 是什么 ？ #
