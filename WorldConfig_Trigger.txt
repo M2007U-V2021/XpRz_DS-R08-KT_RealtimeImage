@@ -25,6 +25,7 @@ SetActive(BT2.Door,false);
 SetActive(BD1.Door,false);
 SetActive(BD2.Door,false);
 SetActive(BD3.Door,false);
+SetActive(TNT.Door,false);
 SetActive(BT1.Lock,false);
 SetActive(BT2.Lock,false);
 SetActive(BD1.Lock,false);
