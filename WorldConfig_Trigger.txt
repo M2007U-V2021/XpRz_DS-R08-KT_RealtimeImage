@@ -32,8 +32,8 @@ SetActive(BD1.Lock,false);
 SetActive(BD2.Lock,false);
 SetActive(BD3.Lock,false);
 
-SetAdmin(XR_XharpRazor);
-SetAdmin(Vannthedev);
-SetAdmin(Alia);
-SetAdmin(EZK!MO);
-SetAdmin(AppleLemon);
+SetAdmin("XR_XharpRazor");
+SetAdmin("Vannthedev");
+SetAdmin("Alia");
+SetAdmin("EZK!MO");
+SetAdmin("AppleLemon");
