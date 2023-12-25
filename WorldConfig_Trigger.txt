@@ -2,10 +2,10 @@ InstanceID("971629");
 
 SetActive(Special.Frame,false);
 SetActive(Special.Globe,false);
-SetActive(Special.Zaglines,true);
-SetActive(Special.HandDrewGrass,false);
+SetActive(Special.Zaglines,false);
+SetActive(Special.HandDrewGrass,true);
 SetActive(Special.TriFlags,false);
-SetActive(Special.SkyRing,true);
+SetActive(Special.SkyRing,false);
 
 SetActive(Festival.NewYear,false);
 SetActive(Festival.ChineseNewYear,false);
@@ -14,11 +14,11 @@ SetActive(Festival.ThanksGiving,false);
 SetActive(Festival.Christmas,false);
 
 SetActive(Weather.Rain,false);
-SetActive(Weather.StarsWarm,false);
+SetActive(Weather.StarsWarm,true);
 SetActive(Weather.StartsCool,false);
 SetActive(Weather.StarsMono,false);
-SetActive(Weather.AuroraWarm,false);
-SetActive(Weather.AuroraCool,true);
+SetActive(Weather.AuroraWarm,true);
+SetActive(Weather.AuroraCool,false);
 
 SetActive(BT1.Door,false);
 SetActive(BT2.Door,true);
