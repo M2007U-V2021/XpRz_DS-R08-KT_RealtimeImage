@@ -5,7 +5,7 @@ SetActive(Special.Globe,false);
 SetActive(Special.Zaglines,false);
 SetActive(Special.HandDrewGrass,false);
 SetActive(Special.TriFlags,false);
-SetActive(Special.SkyRing,true);
+SetActive(Special.SkyRing,false);
 
 SetActive(Festival.NewYear,false);
 SetActive(Festival.ChineseNewYear,false);
@@ -18,7 +18,7 @@ SetActive(Weather.StarsWarm,false);
 SetActive(Weather.StartsCool,false);
 SetActive(Weather.StarsMono,false);
 SetActive(Weather.AuroraWarm,false);
-SetActive(Weather.AuroraCool,false);
+SetActive(Weather.AuroraCool,true);
 
 SetActive(BT1.Door,false);
 SetActive(BT2.Door,true);
