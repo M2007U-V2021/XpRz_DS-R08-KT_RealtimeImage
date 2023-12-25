@@ -1,4 +1,4 @@
-InstanceID("971629");
+InstanceID("31406");
 
 SetActive(Special.Frame,false);
 SetActive(Special.Globe,false);
@@ -17,8 +17,8 @@ SetActive(Weather.Rain,false);
 SetActive(Weather.StarsWarm,true);
 SetActive(Weather.StartsCool,false);
 SetActive(Weather.StarsMono,false);
-SetActive(Weather.AuroraWarm,true);
-SetActive(Weather.AuroraCool,false);
+SetActive(Weather.AuroraWarm,false);
+SetActive(Weather.AuroraCool,true);
 
 SetActive(BT1.Door,false);
 SetActive(BT2.Door,true);
