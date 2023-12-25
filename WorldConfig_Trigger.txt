@@ -1,11 +1,11 @@
-InstanceID("238247");
+InstanceID("971629");
 
 SetActive(Special.Frame,false);
 SetActive(Special.Globe,false);
-SetActive(Special.Zaglines,false);
+SetActive(Special.Zaglines,true);
 SetActive(Special.HandDrewGrass,false);
 SetActive(Special.TriFlags,false);
-SetActive(Special.SkyRing,false);
+SetActive(Special.SkyRing,true);
 
 SetActive(Festival.NewYear,false);
 SetActive(Festival.ChineseNewYear,false);
