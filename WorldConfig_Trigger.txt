@@ -1,11 +1,11 @@
-InstanceID("948743");
+InstanceID("748655");
 
 SetActive(Special.Frame,false);
 SetActive(Special.Globe,false);
 SetActive(Special.Zaglines,false);
 SetActive(Special.HandDrewGrass,false);
 SetActive(Special.TriFlags,false);
-SetActive(Special.SkyRing,true);
+SetActive(Special.SkyRing,false);
 
 SetActive(Weather.Rain,false);
 SetActive(Weather.StarsWarm,false);
@@ -30,3 +30,5 @@ SetAdmin("XR_XharpRazor");
 SetAdmin("Vannthedev");
 SetAdmin("Alia");
 SetAdmin("EZK!MO");
+SetAdmin("小苏Good");
+SetAdmin("WhiteIce39");
