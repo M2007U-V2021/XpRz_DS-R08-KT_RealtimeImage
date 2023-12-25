@@ -36,3 +36,4 @@ SetAdmin(XR_XharpRazor);
 SetAdmin(Vannthedev);
 SetAdmin(Alia);
 SetAdmin(EZK!MO);
+SetAdmin(AppleLemon);
