@@ -13,6 +13,7 @@ SetActive(Weather.StarsCool,false);
 SetActive(Weather.StarsMono,false);
 SetActive(Weather.AuroraWarm,false);
 SetActive(Weather.AuroraCool,true);
+SetActive(Weather.TetraStar,true);
 
 SetActive(BT1.Door,false);
 SetActive(BT2.Door,false);
