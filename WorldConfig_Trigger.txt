@@ -1,20 +1,5 @@
 InstanceID("942658");
 
-SetActive(Special.Frame,false);
-SetActive(Special.Globe,false);
-SetActive(Special.Zaglines,false);
-SetActive(Special.HandDrewGrass,false);
-SetActive(Special.TriFlags,false);
-SetActive(Special.SkyRing,false);
-
-SetActive(Weather.Rain,false);
-SetActive(Weather.StarsWarm,false);
-SetActive(Weather.StarsCool,false);
-SetActive(Weather.StarsMono,false);
-SetActive(Weather.AuroraWarm,false);
-SetActive(Weather.AuroraCool,true);
-SetActive(Weather.TetraStar,true);
-
 SetActive(BT1.Door,false);
 SetActive(BT2.Door,false);
 SetActive(BD1.Door,false);
@@ -26,6 +11,21 @@ SetActive(BT2.Lock,false);
 SetActive(BD1.Lock,false);
 SetActive(BD2.Lock,false);
 SetActive(BD3.Lock,false);
+
+SetActive(Weather.Rain,false);
+SetActive(Weather.StarsWarm,false);
+SetActive(Weather.StarsCool,false);
+SetActive(Weather.StarsMono,false);
+SetActive(Weather.AuroraWarm,false);
+SetActive(Weather.AuroraCool,true);
+SetActive(Weather.TetraStar,true);
+
+SetActive(Special.Frame,false);
+SetActive(Special.Globe,false);
+SetActive(Special.Zaglines,false);
+SetActive(Special.HandDrewGrass,false);
+SetActive(Special.TriFlags,false);
+SetActive(Special.SkyRing,false);
 
 SetAdmin("XR_XharpRazor");
 SetAdmin("Vannthedev");
