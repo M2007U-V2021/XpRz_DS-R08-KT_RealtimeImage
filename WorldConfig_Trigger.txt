@@ -30,6 +30,6 @@ SetActive(BD3.Lock,false);
 SetAdmin("XR_XharpRazor");
 SetAdmin("Vannthedev");
 SetAdmin("Alia");
-SetAdmin("EZK!MO");
+SetAdmin("EZKIMO_O'");
 SetAdmin("小苏Good");
 SetAdmin("WhiteIce39");
